@@ -39,8 +39,8 @@
 
 Some of the work I’m proud of:
 
-- 🎮 [Rock-Paper-Scissors](https://github.com/MOHAMEDHAMADA32/Rock-Paper-Scissors) – A simple terminal game using Python
-- ❌ [XO Game](https://github.com/MOHAMEDHAMADA32/XO-Game) – Classic Tic-Tac-Toe using Python
+- 🎮 [Rock-Paper-Scissors](https://github.com/Mohamed-Hamada-RP/Rock-Paper-Scissors) – A simple terminal game using Python
+- ❌ [XO Game](https://github.com/Mohamed-Hamada-RP/XO-Game) – Classic Tic-Tac-Toe using Python
 - 📈 Data Analysis Projects – Wine dataset with preprocessing & ML (coming soon!)
 - 🐳 DevOps Projects – Jenkins + Docker pipeline (coming soon!)
 
@@ -49,11 +49,11 @@ Some of the work I’m proud of:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHAMEDHAMADA32&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMohamed-Hamada-RP&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHAMEDHAMADA32&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hamada-RP&layout=compact&theme=github_dark" />
 </p>
 
 ---
