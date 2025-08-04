@@ -46,6 +46,7 @@ Here are a few projects I've worked on:
 
 - 🎮 [Rock-Paper-Scissors](https://github.com/Mohamed-Hamada-RP/Rock-Paper-Scissors) – A simple terminal game using Python
 - ❌ [XO Game](https://github.com/Mohamed-Hamada-RP/XO-Game) – Classic Tic-Tac-Toe in Python
+- ⌨️ [Typing Speed Test](https://github.com/Mohamed-Hamada-RP/Speed-Typing-Test) – Terminal-based typing speed tracker using Python `curses`  
 - 🐳 DevOps Projects – Jenkins + Docker pipeline (coming soon!)
 
 ---
