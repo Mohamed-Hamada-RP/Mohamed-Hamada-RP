@@ -44,18 +44,6 @@ Here are a few projects I've worked on:
 - [Typing Speed Test](https://github.com/Mohamed-Hamada-RP/Speed-Typing-Test): Terminal-based typing speed tracker using the Python `curses` module  
 - DevOps Projects (coming soon): Jenkins + Docker pipeline and more
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hamada-RP&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hamada-RP&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 🌍 Connect with Me
 
 <p align="center">
