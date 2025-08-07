@@ -52,8 +52,6 @@ Here are a few projects I've worked on:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Hamada-RP&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Hamada-RP&layout=compact&theme=github-dark&hide_border=true" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Hamada-RP&show_icons=true&theme=github-dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
